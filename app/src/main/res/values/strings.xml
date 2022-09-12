@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SocializeIt</string>
+    <string name="verify_your_phone_number">Verify your phone number</string>
+    <string name="enter_the_otp_code_to_verify_you_re_phone_number">Enter the OTP code to verify you\'re phone number.</string>
+    <string name="enter_you_re_phone_number">Enter you\'re phone number</string>
+    <string name="socializeit_app_will_send_an_sms_to_verify_you_re_phone_number">SocializeIt app will send an SMS to verify you\'re phone number</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="didn_t_recieve_the_otp">Didn\'t recieve the otp</string>
+    <string name="resend_otp_again">RESEND OTP AGAIN</string>
+    <string name="verify">verify</string>
+    <string name="_2">2</string>
+    <string name="_9">9</string>
+    <string name="_6">6</string>
+    <string name="todo">TODO</string>
+    <string name="chats">Chats</string>
+    <string name="status">Status</string>
+    <string name="calls">Calls</string>
+    <string name="search">Search</string>
+    <string name="groups">Groups</string>
+    <string name="invite">Invite</string>
+    <string name="string_invite" />
+    <string name="settings">Settings</string>
+</resources>

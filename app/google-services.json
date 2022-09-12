@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199827417942",
+    "project_id": "socializeitnew",
+    "storage_bucket": "socializeitnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199827417942:android:e4a159e25622a64067c4f7",
+        "android_client_info": {
+          "package_name": "com.example.socializeitnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199827417942-i0m4v6fv78aqt1j0o7pderjcfgde3hs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpuNKrmwewm-BatiFkmgmxtyM2Gel2U3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199827417942-i0m4v6fv78aqt1j0o7pderjcfgde3hs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
